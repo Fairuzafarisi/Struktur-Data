@@ -1,5 +1,5 @@
-Fairuzzafarisi
-240705083
-Praktik Struktur Data
-Dr. Hendri Ahmadian, M.I.M
-
+# STRUKTUR-DATA
+NAMA  : Fairuzzafarisi 
+NIM   : 240705083
+Mata Kuliah : Struktur Data
+Dosen : Dr.Hendri Ahmadian, M.I.M  
